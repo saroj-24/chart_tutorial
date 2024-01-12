@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="" />
+    <mapping directory="$PROJECT_DIR$/../ContactSave/app/src/main/java/com/example/contactsave" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../CovidUpdate" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../FifaWolrdCup" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../Firebase_tutorial" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../NewsApp" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../PdfReader" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../PlayMusic" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../Wallpaper" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../findBmi" vcs="" />
+  </component>
+</project>
